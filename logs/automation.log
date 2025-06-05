@@ -1,63 +1,48 @@
-2025-06-05 09:44:56 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
-2025-06-05 09:45:00 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
-2025-06-05 09:45:00 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
-2025-06-05 09:45:07 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
-2025-06-05 09:45:08 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
-2025-06-05 09:45:08 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
-2025-06-05 09:45:10 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
-2025-06-05 09:45:10 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
-2025-06-05 09:45:16 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
-2025-06-05 09:45:16 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
-2025-06-05 09:45:16 INFO  TC_001SignupForNewUser:39 - Entering the account information
-2025-06-05 09:45:24 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
-2025-06-05 09:45:24 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
-2025-06-05 09:45:25 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
-2025-06-05 09:45:25 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
-2025-06-05 09:45:25 INFO  TC_001SignupForNewUser:39 - Entering the account information
-2025-06-05 09:45:29 INFO  TC_001SignupForNewUser:65 - ***** Finished TC_001SignupForNewUser *****
-2025-06-05 11:12:16 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 11:12:18 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 11:12:18 INFO  TC_004ContacttoUsTest:18 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 11:12:18 INFO  TC_004ContacttoUsTest:21 - ***Enter The Contact Name***
-2025-06-05 11:12:18 INFO  TC_004ContacttoUsTest:23 - ***Enter The Email Address***
-2025-06-05 11:12:19 INFO  TC_004ContacttoUsTest:26 - ***Enter The Subject***
-2025-06-05 11:12:19 INFO  TC_004ContacttoUsTest:28 - ***Click on Submit Button***
-2025-06-05 11:19:35 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 11:19:37 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 11:19:37 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 11:19:38 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 11:19:38 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 11:19:38 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 11:19:38 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 11:19:38 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 11:19:39 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 11:26:30 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 11:26:31 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 11:26:31 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 11:26:31 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 11:26:32 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 11:26:32 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 11:26:32 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 11:26:32 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 11:26:33 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 12:02:28 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 12:02:29 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 12:02:29 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 12:02:30 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 12:02:30 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 12:02:30 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 12:02:30 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 12:02:30 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 12:02:31 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 12:02:31 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
-2025-06-05 12:06:58 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 12:06:59 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 12:06:59 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 12:07:00 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 12:07:00 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 12:07:00 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 12:07:00 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 12:07:01 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 12:07:02 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 12:07:02 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
-2025-06-05 12:07:24 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
+2025-06-05 14:15:52 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
+2025-06-05 14:15:53 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
+2025-06-05 14:15:53 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
+2025-06-05 14:16:08 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
+2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
+2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
+2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
+2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
+2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
+2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
+2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
+2025-06-05 14:16:12 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
+2025-06-05 14:16:12 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
+2025-06-05 14:16:34 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
+2025-06-05 14:16:45 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
+2025-06-05 14:16:45 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
+2025-06-05 14:16:47 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
+2025-06-05 14:16:47 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
+2025-06-05 14:16:47 INFO  TC_001SignupForNewUser:39 - Entering the account information
+2025-06-05 14:17:11 INFO  TC_001SignupForNewUser:65 - ***** Finished TC_001SignupForNewUser *****
+2025-06-05 14:19:36 INFO  TC_003LoginWithInvalidEmailAndPassword:14 - **** TC_003: ClickOnSignup Test Started ****
+2025-06-05 14:19:36 INFO  TC_003LoginWithInvalidEmailAndPassword:16 - Clicking on Signup/Login button
+2025-06-05 14:19:42 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
+2025-06-05 14:19:44 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
+2025-06-05 14:19:44 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
+2025-06-05 14:20:12 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
+2025-06-05 14:20:35 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
+2025-06-05 14:20:35 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
+2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
+2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
+2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
+2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
+2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
+2025-06-05 14:20:37 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
+2025-06-05 14:20:37 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
+2025-06-05 14:20:40 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
+2025-06-05 14:20:46 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
+2025-06-05 14:20:46 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
+2025-06-05 14:20:48 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
+2025-06-05 14:20:48 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
+2025-06-05 14:20:48 INFO  TC_001SignupForNewUser:39 - Entering the account information
+2025-06-05 14:21:19 INFO  TC_001SignupForNewUser:65 - ***** Finished TC_001SignupForNewUser *****
+2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:22 - **** TC_003: VerifLoginFunctionality Test Started ****
+2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:25 - Verifying 'Login to your account' text
+2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:28 - Entering invalid email
+2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:31 - Entering invalid password
+2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:34 - Clicking on Login button
+2025-06-05 14:21:21 INFO  TC_003LoginWithInvalidEmailAndPassword:37 - Verifying error message for incorrect login

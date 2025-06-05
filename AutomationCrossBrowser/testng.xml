@@ -6,9 +6,11 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-     
+    <class name="testCases.TC_001SignupForNewUser"/>
+        <class name="testCases.TC_002VerifyTestCases"/>
+            <class name="testCases.TC_003LoginWithInvalidEmailAndPassword"/>
        <class name="testCases.TC_004ContacttoUsTest"/>
     </classes>
   </test>
-  </suite>
+  </suite>    
   
