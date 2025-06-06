@@ -1,48 +1,63 @@
-2025-06-05 14:15:52 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
-2025-06-05 14:15:53 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
-2025-06-05 14:15:53 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
-2025-06-05 14:16:08 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 14:16:10 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 14:16:11 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 14:16:12 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 14:16:12 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
-2025-06-05 14:16:34 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
-2025-06-05 14:16:45 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
-2025-06-05 14:16:45 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
-2025-06-05 14:16:47 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
-2025-06-05 14:16:47 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
-2025-06-05 14:16:47 INFO  TC_001SignupForNewUser:39 - Entering the account information
-2025-06-05 14:17:11 INFO  TC_001SignupForNewUser:65 - ***** Finished TC_001SignupForNewUser *****
-2025-06-05 14:19:36 INFO  TC_003LoginWithInvalidEmailAndPassword:14 - **** TC_003: ClickOnSignup Test Started ****
-2025-06-05 14:19:36 INFO  TC_003LoginWithInvalidEmailAndPassword:16 - Clicking on Signup/Login button
-2025-06-05 14:19:42 INFO  TC_001SignupForNewUser:18 - ***** Starting TC_001SignupForNewUser *****
-2025-06-05 14:19:44 INFO  TC_001SignupForNewUser:21 - Clicked on Sign/Login button
-2025-06-05 14:19:44 INFO  TC_001SignupForNewUser:24 - Entering name and email address for new user signup
-2025-06-05 14:20:12 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
-2025-06-05 14:20:35 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
-2025-06-05 14:20:35 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
-2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
-2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
-2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
-2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
-2025-06-05 14:20:36 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
-2025-06-05 14:20:37 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
-2025-06-05 14:20:37 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
-2025-06-05 14:20:40 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
-2025-06-05 14:20:46 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
-2025-06-05 14:20:46 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
-2025-06-05 14:20:48 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
-2025-06-05 14:20:48 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
-2025-06-05 14:20:48 INFO  TC_001SignupForNewUser:39 - Entering the account information
-2025-06-05 14:21:19 INFO  TC_001SignupForNewUser:65 - ***** Finished TC_001SignupForNewUser *****
-2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:22 - **** TC_003: VerifLoginFunctionality Test Started ****
-2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:25 - Verifying 'Login to your account' text
-2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:28 - Entering invalid email
-2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:31 - Entering invalid password
-2025-06-05 14:21:19 INFO  TC_003LoginWithInvalidEmailAndPassword:34 - Clicking on Login button
-2025-06-05 14:21:21 INFO  TC_003LoginWithInvalidEmailAndPassword:37 - Verifying error message for incorrect login
+2025-06-06 10:08:36 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
+2025-06-06 10:08:36 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
+2025-06-06 10:08:37 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
+2025-06-06 10:08:38 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
+2025-06-06 10:08:42 INFO  TC_001SignupForNewUser:17 - ***** Starting TC_001SignupForNewUser *****
+2025-06-06 10:08:44 INFO  TC_001SignupForNewUser:20 - Clicked on Sign/Login button
+2025-06-06 10:08:44 INFO  TC_001SignupForNewUser:23 - Entering name and email address for new user signup
+2025-06-06 10:14:12 INFO  TC_003LoginWithInvalidEmailAndPassword:14 - **** TC_003: ClickOnSignup Test Started ****
+2025-06-06 10:14:13 INFO  TC_003LoginWithInvalidEmailAndPassword:16 - Clicking on Signup/Login button
+2025-06-06 10:14:26 INFO  TC_001SignupForNewUser:17 - ***** Starting TC_001SignupForNewUser *****
+2025-06-06 10:14:30 INFO  TC_001SignupForNewUser:20 - Clicked on Sign/Login button
+2025-06-06 10:14:30 INFO  TC_001SignupForNewUser:23 - Entering name and email address for new user signup
+2025-06-06 10:14:45 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
+2025-06-06 10:14:48 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
+2025-06-06 10:14:48 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
+2025-06-06 10:14:49 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
+2025-06-06 10:14:49 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
+2025-06-06 10:14:50 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
+2025-06-06 10:14:50 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
+2025-06-06 10:14:50 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
+2025-06-06 10:14:51 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
+2025-06-06 10:14:51 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
+2025-06-06 10:15:13 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
+2025-06-06 10:15:20 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
+2025-06-06 10:15:20 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
+2025-06-06 10:15:21 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
+2025-06-06 10:15:21 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
+2025-06-06 10:15:21 INFO  TC_001SignupForNewUser:37 - Entering the account information
+2025-06-06 10:15:57 INFO  TC_001SignupForNewUser:63 - ***** Finished TC_001SignupForNewUser *****
+2025-06-06 10:15:57 INFO  TC_003LoginWithInvalidEmailAndPassword:21 - **** TC_003: VerifLoginFunctionality Test Started ****
+2025-06-06 10:15:57 INFO  TC_003LoginWithInvalidEmailAndPassword:24 - Verifying 'Login to your account' text
+2025-06-06 10:15:58 INFO  TC_003LoginWithInvalidEmailAndPassword:27 - Entering invalid email
+2025-06-06 10:15:58 INFO  TC_003LoginWithInvalidEmailAndPassword:30 - Entering invalid password
+2025-06-06 10:15:58 INFO  TC_003LoginWithInvalidEmailAndPassword:33 - Clicking on Login button
+2025-06-06 10:16:00 INFO  TC_003LoginWithInvalidEmailAndPassword:36 - Verifying error message for incorrect login
+2025-06-06 10:24:57 INFO  TC_003LoginWithInvalidEmailAndPassword:14 - **** TC_003: ClickOnSignup Test Started ****
+2025-06-06 10:24:57 INFO  TC_003LoginWithInvalidEmailAndPassword:16 - Clicking on Signup/Login button
+2025-06-06 10:25:07 INFO  TC_001SignupForNewUser:17 - ***** Starting TC_001SignupForNewUser *****
+2025-06-06 10:25:08 INFO  TC_001SignupForNewUser:20 - Clicked on Sign/Login button
+2025-06-06 10:25:08 INFO  TC_001SignupForNewUser:23 - Entering name and email address for new user signup
+2025-06-06 10:25:18 INFO  TC_004ContacttoUsTest:13 - ***TC_004 ContactoUsTest Started***
+2025-06-06 10:25:21 INFO  TC_004ContacttoUsTest:16 - ***Click on Contact to Us Button***
+2025-06-06 10:25:21 INFO  TC_004ContacttoUsTest:19 - ***Verify 'GET IN TOUCH' is visible***
+2025-06-06 10:25:22 INFO  TC_004ContacttoUsTest:23 - ***Enter The Contact Name***
+2025-06-06 10:25:22 INFO  TC_004ContacttoUsTest:26 - ***Enter The Email Address***
+2025-06-06 10:25:22 INFO  TC_004ContacttoUsTest:29 - ***Enter The Subject***
+2025-06-06 10:25:22 INFO  TC_004ContacttoUsTest:32 - ***Enter The Message***
+2025-06-06 10:25:22 INFO  TC_004ContacttoUsTest:35 - ***Click on Submit Button***
+2025-06-06 10:25:23 INFO  TC_004ContacttoUsTest:40 - ***Alert accepted successfully***
+2025-06-06 10:25:23 INFO  TC_004ContacttoUsTest:45 - ***Verify Success! Your details have been submitted successfully.***
+2025-06-06 10:25:46 INFO  TC_004ContacttoUsTest:48 - ***Click On Home Button***
+2025-06-06 10:25:57 INFO  TC_002VerifyTestCases:15 - === Starting TC_002VerifyTestCases ===
+2025-06-06 10:25:57 INFO  TC_002VerifyTestCases:17 - Clicking on the 'Test Cases' button
+2025-06-06 10:25:59 INFO  TC_002VerifyTestCases:20 - Verifying if the 'Test Cases' page text is displayed
+2025-06-06 10:25:59 INFO  TC_002VerifyTestCases:23 - === TC_002VerifyTestCases completed successfully ===
+2025-06-06 10:25:59 INFO  TC_001SignupForNewUser:37 - Entering the account information
+2025-06-06 10:26:34 INFO  TC_001SignupForNewUser:63 - ***** Finished TC_001SignupForNewUser *****
+2025-06-06 10:26:35 INFO  TC_003LoginWithInvalidEmailAndPassword:21 - **** TC_003: VerifLoginFunctionality Test Started ****
+2025-06-06 10:26:35 INFO  TC_003LoginWithInvalidEmailAndPassword:24 - Verifying 'Login to your account' text
+2025-06-06 10:26:35 INFO  TC_003LoginWithInvalidEmailAndPassword:27 - Entering invalid email
+2025-06-06 10:26:35 INFO  TC_003LoginWithInvalidEmailAndPassword:30 - Entering invalid password
+2025-06-06 10:26:35 INFO  TC_003LoginWithInvalidEmailAndPassword:33 - Clicking on Login button
+2025-06-06 10:26:37 INFO  TC_003LoginWithInvalidEmailAndPassword:36 - Verifying error message for incorrect login

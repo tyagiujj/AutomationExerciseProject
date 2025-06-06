@@ -7,7 +7,7 @@ import testBase.BaseClass;
 
 public class TC_004ContacttoUsTest extends BaseClass {
 
-    @Test(priority = 1)
+    @Test(priority = 1,groups={"Sanity","Master"})
     public void ContactToUs() {
         try {
             logger.info("***TC_004 ContactoUsTest Started***");

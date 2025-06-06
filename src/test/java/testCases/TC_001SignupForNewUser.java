@@ -5,7 +5,6 @@ import java.util.Date;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pageObjects.EnterAccoountInformation;
 import pageObjects.NewUserSignUpPageObjects;
 import pageObjects.SignUpLoginPage;
@@ -13,7 +12,7 @@ import testBase.BaseClass;
 
 public class TC_001SignupForNewUser extends BaseClass {
 	
-    @Test(priority = 1)
+    @Test(priority = 1,groups= {"Regression","Master"})
     public void ClickSignupLogin() {
         logger.info("***** Starting TC_001SignupForNewUser *****");
         SignUpLoginPage log = new SignUpLoginPage(driver);
@@ -22,7 +21,6 @@ public class TC_001SignupForNewUser extends BaseClass {
 
         NewUserSignUpPageObjects user = new NewUserSignUpPageObjects(driver);
         logger.info("Entering name and email address for new user signup");
-
         Assert.assertTrue(user.isNewUserSignUpDisplayed(), "'New User Signup!' message is not displayed");
 
         user.enterFirstName("Ujjwal Tyagi");
@@ -33,7 +31,7 @@ public class TC_001SignupForNewUser extends BaseClass {
         user.clickSignupButton();
     }
 
-    @Test(priority = 2)
+    @Test(priority = 2,groups= {"Regression","Master"})
     public void EnterAccountDetails() {
         EnterAccoountInformation infor = new EnterAccoountInformation(driver);
         logger.info("Entering the account information");

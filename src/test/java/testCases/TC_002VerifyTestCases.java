@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC_002VerifyTestCases extends BaseClass {
 	
-    @Test(priority = 1)
+    @Test(priority = 1,groups={"Sanity","Master"})
     public void VerifyTestCases() {
         TestCasesPageObject TC = new TestCasesPageObject(driver);
 

@@ -9,14 +9,13 @@ import testBase.BaseClass;
 
 public class TC_003LoginWithInvalidEmailAndPassword extends BaseClass {
 
-    @Test(priority = 1)
+    @Test(priority = 1,groups={"Sanity","Master"})
     public void ClickOnSignup() {
         logger.info("**** TC_003: ClickOnSignup Test Started ****");
         SignUpLoginPage Sign = new SignUpLoginPage(driver);
         logger.info("Clicking on Signup/Login button");
         Sign.ClickonSignLoginButton();
     }
-
     @Test(priority = 2)
     public void VerifLoginFunctionality() {
         logger.info("**** TC_003: VerifLoginFunctionality Test Started ****");
